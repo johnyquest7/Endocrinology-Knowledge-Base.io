@@ -36,7 +36,7 @@ It's crucial to remember that while thyroid nodule biopsy is a valuable diagnost
 
 ---
 
-## Citations
+## Citations 1
 [^1]: [Cleveland Clinic: Thyroid Biopsy](https://my.clevelandclinic.org/health/diagnostics/thyroid-biopsy)  
 [^2]: [PMC: FNA of Thyroid Nodules](https://pmc.ncbi.nlm.nih.gov/articles/PMC2910711/)  
 [^3]: [Mount Sinai: Thyroid Nodule Evaluation](https://www.mountsinai.org/care/ent/surgery/thyroid/thyroid-nodules-diseases/evaluation)  
@@ -44,6 +44,7 @@ It's crucial to remember that while thyroid nodule biopsy is a valuable diagnost
 [^5]: [Thyroid.org: Thyroid Biopsy Information](https://www.thyroid.org/patient-thyroid-information/ct-for-patients/february-2023/vol-16-issue-2-p-7-8/)  
 [^6]: [Thyroid.org: FNA for Thyroid Nodules](https://www.thyroid.org/fna-thyroid-nodules/)  
 [^7]: [WebMD: Thyroid Biopsy Overview](https://www.webmd.com/women/thyroid-biopsy-overview)
+
 
 # Common Molecular Markers Used in the United States
 
@@ -81,7 +82,7 @@ These tests are primarily used to evaluate indeterminate thyroid nodules (Bethes
 
 ---
 
-## Citations
+## Citations 2
 
 [^1]: [ATA: Patient Thyroid Information](https://www.thyroid.org/patient-thyroid-information/ct-for-patients/september-2022/vol-15-issue-9-p-5-6/)
 [^2]: [South Carolina Blues: Molecular Markers](https://www.southcarolinablues.com/web/public/brands/medicalpolicy/external-policies/molecular-markers-in-fine-needle-aspirates-of-the-thyroid/)
@@ -132,7 +133,7 @@ In summary, while molecular markers can provide valuable information in the eval
 
 ---
 
-## Citations
+## Citations 3
 [^1]: [PMC: Molecular Advances in Thyroid Diagnostics](https://pmc.ncbi.nlm.nih.gov/articles/PMC3603017/)  
 [^2]: [PMC: Molecular Testing of Thyroid Nodules](https://pmc.ncbi.nlm.nih.gov/articles/PMC5915469/)  
 [^3]: [Frontiers in Endocrinology: Molecular Markers in Thyroid Nodules](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2020.590128/full)  
