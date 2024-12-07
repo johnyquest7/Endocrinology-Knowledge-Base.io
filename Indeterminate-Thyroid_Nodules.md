@@ -44,3 +44,55 @@ It's crucial to remember that while thyroid nodule biopsy is a valuable diagnost
 [^5]: [Thyroid.org: Thyroid Biopsy Information](https://www.thyroid.org/patient-thyroid-information/ct-for-patients/february-2023/vol-16-issue-2-p-7-8/)  
 [^6]: [Thyroid.org: FNA for Thyroid Nodules](https://www.thyroid.org/fna-thyroid-nodules/)  
 [^7]: [WebMD: Thyroid Biopsy Overview](https://www.webmd.com/women/thyroid-biopsy-overview)
+
+# Common Molecular Markers Used in the United States
+
+The following table shows the common molecular markers used in the United States for thyroid nodule evaluation, along with their sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV):
+
+| Molecular Marker        | Sensitivity (%) | Specificity (%) | Positive Predictive Value (PPV) (%) | Negative Predictive Value (NPV) (%) |
+|--------------------------|-----------------|-----------------|-------------------------------------|-------------------------------------|
+| **ThyGeNEXT**           | 98[^10]        | 98[^10]        | 94[^10]                            | 99[^10]                            |
+| **ThyraMIR**            | 98[^10]        | 98[^10]        | 94[^10]                            | 99[^10]                            |
+| **Afirma GSC**          | 91[^8]         | 68[^8]         | 47[^8]                             | 96[^8]                             |
+| **BRAF mutation**       | 85.4[^11]      | 97.1[^11]      | 91.4[^11]                          | 95.9[^11]                          |
+| **ThyroSeq**            | 70[^9]         | 77[^9]         | 42[^9]                             | 91[^9]                             |
+| **RAS mutation**        | 66[^12]        | 98.5[^12]      | 93.5[^12]                          | 82.5[^12]                          |
+| **TERT promoter mutation** | 7[^13]       | 100[^13]       | 7[^13]                             | 97[^13]                            |
+
+## Overview
+
+The most commonly used molecular tests in the United States include:
+
+1. **Afirma Genomic Sequencing Classifier (GSC)**
+2. **ThyroSeq**
+3. **ThyGeNEXT/ThyraMIR**
+4. **BRAF mutation analysis**
+5. **RAS mutation analysis**
+6. **TERT promoter mutation analysis**
+
+These tests are primarily used to evaluate indeterminate thyroid nodules (Bethesda III and IV categories) to help guide management decisions[^1][^3]. They provide more accurate risk stratification for malignancy in challenging cases.
+
+## Clinical Considerations
+
+- Molecular markers significantly improve diagnostic accuracy but should be interpreted alongside other clinical factors (e.g., ultrasound findings and patient risk factors)[^1].
+- **ATA** and **AACE guidelines** recommend molecular testing for indeterminate nodules; however, patients should be counseled on the benefits, limitations, and uncertainties[^3].
+- Molecular testing is **not recommended** when other indications for surgery are present, such as nodules >4 cm, compressive symptoms, or patient preference[^3].
+- Insufficient data exists to recommend routine use of molecular testing in pediatric patients (≤18 years)[^3].
+
+---
+
+## Citations
+
+[^1]: [ATA: Patient Thyroid Information](https://www.thyroid.org/patient-thyroid-information/ct-for-patients/september-2022/vol-15-issue-9-p-5-6/)
+[^2]: [South Carolina Blues: Molecular Markers](https://www.southcarolinablues.com/web/public/brands/medicalpolicy/external-policies/molecular-markers-in-fine-needle-aspirates-of-the-thyroid/)
+[^3]: [PMC: Molecular Testing of Thyroid Nodules](https://pmc.ncbi.nlm.nih.gov/articles/PMC5915469/)
+[^4]: [Allen Press: Molecular Testing Review](https://meridian.allenpress.com/aplm/article/140/12/1338/194193/Molecular-Testing-of-Thyroid-Nodules-A-Review-of)
+[^5]: [PMC: Thyroid Molecular Markers](https://pmc.ncbi.nlm.nih.gov/articles/PMC6107603/)
+[^6]: [PMC: Molecular Advances in Thyroid Diagnosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9999006/)
+[^7]: [Endocrinology: Diagnosing Thyroid Cancer](https://www.endocrinology.org/endocrinologist/132-summer-2019/features/molecular-markers-in-diagnosing-thyroid-cancer/)
+[^8]: [Afirma GSC Overview](https://scholarlycommons.libraryinfo.bhs.org/all_works/10570/)
+[^9]: [ThyroSeq Details](https://pmc.ncbi.nlm.nih.gov/articles/PMC7771306/)
+[^10]: [ThyGeNEXT/ThyraMIR](https://thygenext-thyramir.com)
+[^11]: [BRAF Mutation Analysis](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2021.746776/full)
+[^12]: [RAS Mutation Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC8345070/)
+[^13]: [TERT Promoter Mutation](https://erc.bioscientifica.com/view/journals/erc/21/5/825.xml)
