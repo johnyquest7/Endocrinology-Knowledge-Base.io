@@ -102,40 +102,34 @@ These tests are primarily used to evaluate indeterminate thyroid nodules (Bethes
 
 The use of molecular markers for the diagnosis of thyroid nodules offers potential benefits but also presents several limitations. These limitations can impact their effectiveness and clinical utility in guiding management decisions for patients with indeterminate thyroid nodules.
 
-## Limitations of Molecular Markers
+# Limitations of Using Molecular Markers for Thyroid Nodule Diagnosis
+
+The use of molecular markers for the diagnosis of thyroid nodules offers potential benefits but also presents several limitations. These limitations can impact their effectiveness and clinical utility in guiding management decisions for patients with indeterminate thyroid nodules.
+
 
 ### 1. Diagnostic Accuracy
-- **Sensitivity and Specificity**: Many molecular tests exhibit variable sensitivity and specificity. For example, the Afirma Gene Expression Classifier (GEC) has shown sensitivity ranging from 75% to 100% and specificity from 5% to 53%, while ThyroSeq V2 displays sensitivity from 40% to 100% and specificity from 56% to 93%[^2]. Such variability can lead to uncertainty in clinical decision-making.
+- **Sensitivity and Specificity**: Many molecular tests exhibit variable sensitivity and specificity. For example, the Afirma Gene Expression Classifier (GEC) has shown sensitivity ranging from 75% to 100% and specificity from 5% to 53%, while ThyroSeq V2 displays sensitivity from 40% to 100% and specificity from 56% to 93%. [Source](https://pmc.ncbi.nlm.nih.gov/articles/PMC5915469/)
   
-- **Low Positive Predictive Value (PPV)**: The PPV of some markers, such as RAS mutations, has been reported to be as low as 7% to 25%, indicating that a significant proportion of positive results may not correspond to malignancy[^3]. 
+- **Low Positive Predictive Value (PPV)**: The PPV of some markers, such as RAS mutations, has been reported to be as low as 7% to 25%, indicating that a significant proportion of positive results may not correspond to malignancy. [Source](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2020.590128/full)
 
 ### 2. Overlap Between Benign and Malignant Conditions
-- Many molecular markers are not exclusive to malignant conditions; they can also be present in benign nodules. This overlap complicates the interpretation of results and may lead to unnecessary surgeries or interventions for benign lesions[^1][^3].
+- Many molecular markers are not exclusive to malignant conditions; they can also be present in benign nodules. This overlap complicates the interpretation of results and may lead to unnecessary surgeries or interventions for benign lesions. [Source 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC3603017/) [Source 2](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2020.590128/full)
 
 ### 3. Emerging Pathological Entities
-- The introduction of new histopathological classifications, such as Non-Invasive Follicular Thyroid Neoplasm with Papillary-like Nuclear Features (NIFTP), has further complicated the landscape. Molecular tests were developed prior to this classification and may misclassify NIFTP as malignant, thereby affecting their diagnostic performance[^3][^4].
+- The introduction of new histopathological classifications, such as Non-Invasive Follicular Thyroid Neoplasm with Papillary-like Nuclear Features (NIFTP), has further complicated the landscape. Molecular tests were developed prior to this classification and may misclassify NIFTP as malignant, thereby affecting their diagnostic performance. [Source](https://pure.johnshopkins.edu/en/publications/preoperative-molecular-markers-in-thyroid-nodules)
 
 ### 4. Sampling Errors
-- The accuracy of molecular testing is inherently limited by the quality of the fine needle aspiration (FNA) samples. Inadequate sampling can lead to non-diagnostic results or misclassification, which diminishes the reliability of molecular diagnostics[^1][^3].
+- The accuracy of molecular testing is inherently limited by the quality of the fine needle aspiration (FNA) samples. Inadequate sampling can lead to non-diagnostic results or misclassification, which diminishes the reliability of molecular diagnostics. [Source 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC3603017/) [Source 2](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2020.590128/full)
 
 ### 5. Cost and Accessibility
-- The cost-effectiveness of molecular testing remains a concern, particularly in resource-limited settings. While some studies suggest that these tests can reduce unnecessary surgeries, the actual impact on surgical decision-making has been marginal, with only a small percentage of patients experiencing altered management based on molecular testing results[^2][^4].
+- The cost-effectiveness of molecular testing remains a concern, particularly in resource-limited settings. While some studies suggest that these tests can reduce unnecessary surgeries, the actual impact on surgical decision-making has been marginal, with only a small percentage of patients experiencing altered management based on molecular testing results. [Source](https://pmc.ncbi.nlm.nih.gov/articles/PMC5915469/)
 
 ### 6. Lack of Long-term Outcome Data
-- There is insufficient long-term data demonstrating the impact of molecular markers on patient outcomes. Most studies are limited by small sample sizes and single-institution biases, which may not reflect broader clinical practice[^3][^4].
+- There is insufficient long-term data demonstrating the impact of molecular markers on patient outcomes. Most studies are limited by small sample sizes and single-institution biases, which may not reflect broader clinical practice. [Source](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2020.590128/full)
 
 ### 7. Pediatric Considerations
-- Current data do not support the routine use of molecular markers in pediatric patients due to a lack of validation studies in this population, limiting their applicability in younger patients[^2][^4].
+- Current data do not support the routine use of molecular markers in pediatric patients due to a lack of validation studies in this population, limiting their applicability in younger patients. [Source](https://pmc.ncbi.nlm.nih.gov/articles/PMC5915469/)
 
 ---
 
-In summary, while molecular markers can provide valuable information in the evaluation of thyroid nodules, their limitations must be carefully considered when interpreting results and making clinical decisions. A comprehensive approach that includes clinical history, imaging findings, and cytological analysis remains essential in managing indeterminate thyroid nodules effectively.
-
----
-
-## Citations 3
-[^1]: [PMC: Molecular Advances in Thyroid Diagnostics](https://pmc.ncbi.nlm.nih.gov/articles/PMC3603017/)  
-[^2]: [PMC: Molecular Testing of Thyroid Nodules](https://pmc.ncbi.nlm.nih.gov/articles/PMC5915469/)  
-[^3]: [Frontiers in Endocrinology: Molecular Markers in Thyroid Nodules](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2020.590128/full)  
-[^4]: [Johns Hopkins: Preoperative Molecular Markers in Thyroid Nodules](https://pure.johnshopkins.edu/en/publications/preoperative-molecular-markers-in-thyroid-nodules)  
-[^5]: [Allen Press: Molecular Testing of Thyroid Nodules](https://meridian.allenpress.com/aplm/article/140/12/1338/194193/Molecular-Testing-of-Thyroid-Nodules-A-Review-of)  
+In this revised Markdown, citations are embedded as inline links directly below the relevant section. You can follow the same structure for other topics. This ensures the citations appear immediately after the associated content.
